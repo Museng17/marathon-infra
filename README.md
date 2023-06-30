@@ -23,10 +23,13 @@ Duration: 2023.06.12~2022.06.30
   - 시스템 메트릭 또는 저장된 데이터에 대한 하나 이상의 시각화된 모니터링 시스템이 구축되어야합니다.
   ```
 ## Description
-- 일단 패스 
+- AWS 클라우드 인프라를 구축하는 프로젝트입니다.
+- `주제: 마라톤 대회 기록 시스템`
+- `목표: 마라톤 대회에 사람들이 대회 참가를 신청하고 달리기 시간을 기록할 수 있도록 클라우드 환경에 백엔드 시스템 구축 및 인프라 구성`
 
 ## Architecture
-![image](https://github.com/cs-devops-bootcamp/devops-04-Final-Team3/assets/35091494/9df3e687-ad29-4cf6-8b27-3b3034a5c5e0)
+![최종아키텍처슬라이드](https://github.com/Museng17/marathon-infra/assets/98693746/4f025fcd-bca7-4c01-a3d7-78dd2c252f7a)
+
 
 ## **Environment**  
 ### <div style="display:flex; flex-direction:row;"> OS : <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align: middle;">
